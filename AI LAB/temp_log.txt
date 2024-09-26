@@ -1,0 +1,2 @@
+kitchen,20,Heater On
+room,45,Heater Off
